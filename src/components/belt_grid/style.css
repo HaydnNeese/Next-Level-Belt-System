@@ -1,0 +1,15 @@
+.fail {
+    margin: 1%;
+}
+.pass {
+    margin: 1%;
+}
+
+ul {
+    list-style: none;
+}
+
+.inline-block {
+    display: inline-block;
+    margin: 0 10%;
+}
