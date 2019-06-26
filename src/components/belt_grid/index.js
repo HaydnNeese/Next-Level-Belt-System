@@ -26,30 +26,30 @@ const BeltGrid = () => {
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th scope="col">#</th>
-                                                <th scope="col">First</th>
-                                                <th scope="col">Last</th>
-                                                <th scope="col">Handle</th>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <th scope="row">1</th>
-                                                <td>Mark</td>
-                                                <td>Otto</td>
-                                                <td>@mdo</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">2</th>
-                                                <td>Jacob</td>
-                                                <td>Thornton</td>
-                                                <td>@fat</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">3</th>
-                                                <td>Larry</td>
-                                                <td>the Bird</td>
-                                                <td>@twitter</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -60,30 +60,30 @@ const BeltGrid = () => {
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th scope="col">#</th>
-                                                <th scope="col">First</th>
-                                                <th scope="col">Last</th>
-                                                <th scope="col">Handle</th>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <th scope="row">1</th>
-                                                <td>Mark</td>
-                                                <td>Otto</td>
-                                                <td>@mdo</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">2</th>
-                                                <td>Jacob</td>
-                                                <td>Thornton</td>
-                                                <td>@fat</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">3</th>
-                                                <td>Larry</td>
-                                                <td>the Bird</td>
-                                                <td>@twitter</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -94,30 +94,30 @@ const BeltGrid = () => {
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th scope="col">#</th>
-                                                <th scope="col">First</th>
-                                                <th scope="col">Last</th>
-                                                <th scope="col">Handle</th>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <th scope="row">1</th>
-                                                <td>Mark</td>
-                                                <td>Otto</td>
-                                                <td>@mdo</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">2</th>
-                                                <td>Jacob</td>
-                                                <td>Thornton</td>
-                                                <td>@fat</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">3</th>
-                                                <td>Larry</td>
-                                                <td>the Bird</td>
-                                                <td>@twitter</td>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -143,15 +143,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -174,15 +264,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -205,15 +385,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -236,15 +506,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -267,15 +627,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -298,15 +748,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -329,15 +869,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -360,15 +990,105 @@ const BeltGrid = () => {
                             <div class='row'>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div class='col-md-4'>
                                     <p>Exercise</p>
-                                    <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                                                        <img src='https://via.placeholder.com/150' alt='placeholder'></img>
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Set</th>
+                                                <th scope="col">Reps</th>
+                                                <th scope="col">Tempo</th>
+                                                <th scope="col">Rest</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">1</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">2</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">3</th>
+                                                <td>12-15</td>
+                                                <td>4112</td>
+                                                <td>30s</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
