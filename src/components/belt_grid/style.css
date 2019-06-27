@@ -13,3 +13,14 @@ ul {
     display: inline-block;
     margin: 0 10%;
 }
+
+.card-header {
+    background-color: rgb(52,58,64);
+}
+
+.btn.btn-link {
+    color: white;
+    text-decoration: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 20px;
+}
